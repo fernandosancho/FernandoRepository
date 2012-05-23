@@ -1,4 +1,5 @@
 void main() {
-	printf("Hello world!");
+	printf("Hello world!\n");
+	printf("Hello Fernando!\n");
 	return 0;
 }
